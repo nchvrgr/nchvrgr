@@ -71,6 +71,7 @@
 
 ## Healthier
 Ecommerce, groupal project
+
 #### You can see it by clicking [here](https://google.com/)
 #### Also you can check the [repo](https:github.com/nchvrgr)  
 
@@ -84,9 +85,14 @@ Individual Project
 ---  
 
 ## Weather App
-Individual project
-#### You can see it by clicking [here](https://google.com/)
-#### Also you can check the [repo](https:github.com/nchvrgr)  
+Individual front-end project, made with React, fetching data from the [Weather API](https://openweathermap.org/api).
+
+<p align="center">
+  <img src="./img/weather.png" align="center" heigth="300"/>
+</p>
+
+#### You can see it by clicking [here](https://nch.netlify.app/)
+#### Also you can check the [repo](https://github.com/nchvrgr/nchvrgr.github.io)  
 
 ---  
 
