@@ -58,6 +58,9 @@
     <a href="https://www.linkedin.com/in/vjuanignacio/">
       <img src='./img/skills/linkedin.png' alt='linkedin' height='40'>
     </a>
+    <a href="https://www.youtube.com/channel/UCJEc7_MV17qQWBY0IM-QF4g/featured">
+      <img src='./img/skills/youtube.png' alt='youtube' height='40'>
+    </a>    
 </p>
 
 ---  
@@ -65,22 +68,18 @@
 <p align="center">
   <img src="./img/myprojects.png" align="center" height="60"/>
   <br/>
-  (Page in progress)
 </p>
 
 
 ## Healthier
-Ecommerce, groupal project
+Ecommerce, group project. (React - Redux - Node - Sequelize - Express - PostgreSQL - MaterialUI)
 
-#### You can see it by clicking [here](https://google.com/)
-#### Also you can check the [repo](https:github.com/nchvrgr)  
+<p align="center">
+  <img src="./img/healthier.png" align="center" heigth="300"/>
+</p>
 
----  
-
-## Countries App
-Individual Project
-#### You can see it by clicking [here](https://google.com/)
-#### Also you can check the [repo](https:github.com/nchvrgr)  
+#### See the presentation video [here](https://www.youtube.com/watch?v=21vTycn4p0A)
+#### Also you can check the [repo](https://github.com/Healthier-Group/Healthier)  
 
 ---  
 
@@ -91,19 +90,12 @@ Individual front-end project, made with React, fetching data from the [Weather A
   <img src="./img/weather.png" align="center" heigth="300"/>
 </p>
 
-#### You can see it by clicking [here](https://nch.netlify.app/)
-#### Also you can check the [repo](https://github.com/nchvrgr/nchvrgr.github.io)  
+#### You can visit this project deployed [here](https://weather-app-pink-seven.vercel.app/)
+#### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)  
 
----  
-
-## Movies App
-Individual Project
-#### You can see it by clicking [here](https://google.com/)
-#### Also you can check the [repo](https:github.com/nchvrgr)  
- 
----
-
-<br/>
+<hr/>
+<p align="center">Another projects cooming soon! Im working on their deployments to show them on a website</p>
+<hr/>
 
 # Contact me! 
 
