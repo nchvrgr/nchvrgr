@@ -91,7 +91,8 @@ Individual front-end project, made with React, fetching data from the [Weather A
 </p>
 
 #### You can visit this project deployed [here](https://weather-app-pink-seven.vercel.app/)
-#### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)  
+#### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)
+#### And its presentation video [here](https://www.youtube.com/watch?v=QfT3XzXaM6s)  
 
 <hr/>
 <p align="center">Another projects cooming soon! Im working on their deployments to show them on a website</p>
