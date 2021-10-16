@@ -94,9 +94,25 @@ Individual front-end project, made with React, fetching data from the [Weather A
 #### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)
 #### And its presentation video [here](https://www.youtube.com/watch?v=QfT3XzXaM6s)  
 
+---
+
+## Administrador de Pacientes
+
+Simple React project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
+
+<p align="center">
+  <img src="./img/adminPacientes.png" align="center" heigth="300"/>
+</p>
+
+
+#### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
+#### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
+
+
 <hr/>
 <p align="center">Another projects cooming soon! Im working on their deployments to show them on a website</p>
 <hr/>
+
 
 # Contact me! 
 
