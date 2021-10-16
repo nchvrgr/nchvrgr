@@ -101,7 +101,7 @@ Individual front-end project, made with React, fetching data from the [Weather A
 Simple React project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
 
 <p align="center">
-  <img src="./img/adminPacientes.png" align="center" heigth="300"/>
+  <img src="./img/screenshot.png" align="center" heigth="300"/>
 </p>
 
 
