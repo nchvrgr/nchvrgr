@@ -96,7 +96,7 @@ Individual front-end project, made with React, fetching data from the [Weather A
 
 ---
 
-## Administrador de Pacientes
+## Pet JS
 
 Simple React project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
 
