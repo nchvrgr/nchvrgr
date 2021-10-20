@@ -72,7 +72,7 @@
 
 
 ## Healthier
-Ecommerce, group project. (React - Redux - Node - Sequelize - Express - PostgreSQL - MaterialUI)
+Ecommerce, group full-stack project. (React - Redux - Node - Sequelize - Express - PostgreSQL - MaterialUI)
 
 <p align="center">
   <img src="./img/healthier.png" align="center" heigth="300"/>
