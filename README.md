@@ -98,7 +98,7 @@ Individual front-end project, made with React, fetching data from the [Weather A
 
 ## Pet JS
 
-Simple React project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
+React frontend project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
 
 <p align="center">
   <img src="./img/screenshot.png" align="center" heigth="300"/>
@@ -107,10 +107,23 @@ Simple React project. Application to manage patient shifts in a veterinary. (Rea
 
 #### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
 #### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
+---
+
+## Weekly expenses
+
+A React application to manage weekly expenses. (Controlled forms, hooks, localStorage, skeleton)
+
+<p align="center">
+  <img src="./img/expenses.png" align="center" heigth="300"/>
+</p>
+
+
+#### You can visit this project deployed [here](https://weekly-expenses.vercel.app/)
+#### And here is the [repo](https://github.com/nchvrgr/weeklyExpenses)
 
 
 <hr/>
-<p align="center">Another projects cooming soon! Im working on their deployments to show them on a website</p>
+<p align="center">Another projects coming soon! Im working on their deployments to show them on a website</p>
 <hr/>
 
 
