@@ -94,24 +94,30 @@ Individual front-end project, made with React, fetching data from the [Weather A
 #### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)
 #### And its presentation video [here](https://www.youtube.com/watch?v=QfT3XzXaM6s)  
 
+
 ---
 
-## Pet JS
+## NotiApp
 
-React frontend project. Application to manage patient shifts in a veterinary. (React Forms, React Hooks, localStorage)
+Front End React app. It shows the most relevant news and filters by categories and languages. 
 
 <p align="center">
-  <img src="./img/screenshot.png" align="center" heigth="300"/>
+  <img src="./img/notiapp.png" align="center" heigth="300"/>
 </p>
 
 
-#### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
-#### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
+#### You can visit this project deployed [here](https://noti-app-six.vercel.app/)
+#### And here is the [repo](https://github.com/nchvrgr/notiApp)
+
+
+<hr/>
+<p align="center">Another projects coming soon! Im working on their deployments to show them on a website</p>
+<hr/>
 ---
 
 ## Weekly expenses
 
-A React application to manage weekly expenses. (Controlled forms, hooks, localStorage, skeleton)
+A React application to manage weekly expenses, it saves the data locally. (Controlled forms, hooks, localStorage, skeleton)
 
 <p align="center">
   <img src="./img/expenses.png" align="center" heigth="300"/>
@@ -125,6 +131,20 @@ A React application to manage weekly expenses. (Controlled forms, hooks, localSt
 <hr/>
 <p align="center">Another projects coming soon! Im working on their deployments to show them on a website</p>
 <hr/>
+
+---
+
+## Pet JS
+
+React frontend demo project. Application to manage patient shifts in a veterinary. The data is saved locally. (React Forms, React Hooks, localStorage)
+
+<p align="center">
+  <img src="./img/pet.png" align="center" heigth="300"/>
+</p>
+
+
+#### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
+#### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
 
 
 # Contact me! 
