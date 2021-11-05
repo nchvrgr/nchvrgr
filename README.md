@@ -137,6 +137,7 @@ React frontend demo project. Application to manage patient shifts in a veterinar
 #### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
 #### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
 
+---
 
 #### (More projects coming soon! I'm developing new apps while I'm looking for a job.)
 
