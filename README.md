@@ -109,10 +109,6 @@ Front End React app. It shows the most relevant news and filters by categories a
 #### You can visit this project deployed [here](https://noti-app-six.vercel.app/)
 #### And here is the [repo](https://github.com/nchvrgr/notiApp)
 
-
-<hr/>
-<p align="center">Another projects coming soon! Im working on their deployments to show them on a website</p>
-<hr/>
 ---
 
 ## Weekly expenses
@@ -126,11 +122,6 @@ A React application to manage weekly expenses, it saves the data locally. (Contr
 
 #### You can visit this project deployed [here](https://weekly-expenses.vercel.app/)
 #### And here is the [repo](https://github.com/nchvrgr/weeklyExpenses)
-
-
-<hr/>
-<p align="center">Another projects coming soon! Im working on their deployments to show them on a website</p>
-<hr/>
 
 ---
 
@@ -146,6 +137,8 @@ React frontend demo project. Application to manage patient shifts in a veterinar
 #### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
 #### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
 
+
+#### (More projects coming soon! I'm developing new apps while I'm looking for a job.)
 
 # Contact me! 
 
