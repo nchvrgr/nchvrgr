@@ -1,9 +1,13 @@
-<img src="./img/portada.png"/>
 
----
+<img src="./img/portada.png" width="1000" height="170"/>
+
+<p>
+ I'm a junior web developer, I started to code in the highschool and I'm always learning new things, I like to design and create software projects. I'm looking for opportunities in web development, visit my <a target="__blank" href="https://vjuanignacio.vercel.app">web portfolio</a> to know more of my projects!
+</p>
+
 <p align="center">
 <img src="./img/myskills.png" align="center" height="60"/>
-</p>
+</p> 
 
 <p align="center">
   <img src= "./img/skills/javascript.png" 
@@ -24,6 +28,9 @@
   <img src="./img/skills/nodejs.png"
   width="30" height="30" align="center"/>
     Node JS
+  <img src="./img/skills/sass.png"
+  width="30" height="30" align="center"/>
+    Sass
 </p>  
 
 <p align="center">
@@ -53,13 +60,19 @@
 
 <p align="center">
     <a href="https://github.com/nchvrgr">
-      <img src='./img/skills/github.png' alt='github' height='40'>
+      <img src='./img/skills/github.png' alt='github' height='40'> 
     </a>
+    <span> ' </span>
     <a href="https://www.linkedin.com/in/vjuanignacio/">
       <img src='./img/skills/linkedin.png' alt='linkedin' height='40'>
     </a>
+    <span> ' </span>
     <a href="https://www.youtube.com/channel/UCJEc7_MV17qQWBY0IM-QF4g/featured">
-      <img src='./img/skills/youtube.png' alt='youtube' height='40'>
+      <img src='./img/skills/youtube.png' alt='youtube' height='40'> 
+    </a>   
+    <span> ' </span> 
+    <a href="https://vjuanignacio.vercel.app">
+      <img src='./img/skills/portfolio.png' alt='portfolio' height='40'> 
     </a>    
 </p>
 
@@ -141,8 +154,13 @@ React frontend demo project. Application to manage patient shifts in a veterinar
 
 #### (More projects coming soon! I'm developing new apps while I'm looking for a job.)
 
+---
+
 # Contact me! 
 
 WPP: +54 9 3547 61-1196
 <br/>
 Email: vergarajuanignacio02@gmail.com 
+<br/>
+
+### Porfolio: [vjuanignacio.vercel.app](http://vjuanignacio.vercel.app)
