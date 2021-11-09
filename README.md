@@ -1,5 +1,5 @@
 
-<img src="./img/portada.png" width="1000" height="170"/>
+<img src="./img/portada.png" width="1000" height="140"/>
 
 <p>
  I'm a junior web developer, I started to code in the highschool and I'm always learning new things, I like to design and create software projects. I'm looking for opportunities in web development, visit my <a target="__blank" href="https://vjuanignacio.vercel.app">web portfolio</a> to know more of my projects!
