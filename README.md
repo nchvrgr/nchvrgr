@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="./img/myskills.png" align="center" height="60"/>
+My Skills
 </p> 
 
 <p align="center">
@@ -77,7 +77,6 @@
 </p>
 
 ---  
-
 
 # Contact me! 
 
