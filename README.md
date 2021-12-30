@@ -1,8 +1,8 @@
 
-<img src="./img/portada.png" width="1000" height="140"/>
-
 <p>
- I'm a junior web developer, I started to code in the highschool and I'm always learning new things, I like to design and create software projects. I'm looking for opportunities in web development, visit my <a target="__blank" href="https://vjuanignacio.vercel.app">web portfolio</a> to know more of my projects!
+
+ Frontend Developer at <a href="https://nimblegiant.com/">Nimble Giant</a>
+
 </p>
 
 <p align="center">
@@ -78,83 +78,6 @@
 
 ---  
 
-<p align="center">
-  <img src="./img/myprojects.png" align="center" height="60"/>
-  <br/>
-</p>
-
-
-## Healthier
-Ecommerce, group full-stack project. (React - Redux - Node - Sequelize - Express - PostgreSQL - MaterialUI)
-
-<p align="center">
-  <img src="./img/healthier.png" align="center" heigth="300"/>
-</p>
-
-#### See the presentation video [here](https://www.youtube.com/watch?v=21vTycn4p0A)
-#### Also you can check the [repo](https://github.com/Healthier-Group/Healthier)  
-
----  
-
-## Weather App
-Individual front-end project, made with React, fetching data from the [Weather API](https://openweathermap.org/api).
-
-<p align="center">
-  <img src="./img/weather.png" align="center" heigth="300"/>
-</p>
-
-#### You can visit this project deployed [here](https://weather-app-pink-seven.vercel.app/)
-#### Also you can check the [repo](https://github.com/nchvrgr/weatherApp)
-#### And its presentation video [here](https://www.youtube.com/watch?v=QfT3XzXaM6s)  
-
-
----
-
-## NotiApp
-
-Front End React app. It shows the most relevant news and filters by categories and languages. 
-
-<p align="center">
-  <img src="./img/notiapp.png" align="center" heigth="300"/>
-</p>
-
-
-#### You can visit this project deployed [here](https://noti-app-six.vercel.app/)
-#### And here is the [repo](https://github.com/nchvrgr/notiApp)
-
----
-
-## Weekly expenses
-
-A React application to manage weekly expenses, it saves the data locally. (Controlled forms, hooks, localStorage, skeleton)
-
-<p align="center">
-  <img src="./img/expenses.png" align="center" heigth="300"/>
-</p>
-
-
-#### You can visit this project deployed [here](https://weekly-expenses.vercel.app/)
-#### And here is the [repo](https://github.com/nchvrgr/weeklyExpenses)
-
----
-
-## Pet JS
-
-React frontend demo project. Application to manage patient shifts in a veterinary. The data is saved locally. (React Forms, React Hooks, localStorage)
-
-<p align="center">
-  <img src="./img/pet.png" align="center" heigth="300"/>
-</p>
-
-
-#### You can visit this project deployed [here](https://admin-pacientes.vercel.app/)
-#### And here is the [repo](https://github.com/nchvrgr/admin-pacientes)
-
----
-
-#### (More projects coming soon! I'm developing new apps while I'm looking for a job.)
-
----
 
 # Contact me! 
 
