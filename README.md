@@ -78,9 +78,7 @@ My Skills
 
 ---  
 
-# Contact me! 
-
-WPP: +54 9 3547 61-1196
+# Contact me
 <br/>
 Email: vergarajuanignacio02@gmail.com 
 <br/>
