@@ -1,6 +1,7 @@
 
 ### Software Developer. Web and desktop applications. Games development. 
-### Javacript, C++, React, Node, Python
+### Javacript, React, Node, SQL
+### C++, UE5
 #### Contact me:
 vergarajuanignacio02@gmail.com 
 
