@@ -1,6 +1,6 @@
 
- ### Software Developer. Web and desktop applications. Games development. 
-
+### Software Developer. Web and desktop applications. Games development. 
+### Javacript, C++, React, Node, Python
 #### Contact me:
 vergarajuanignacio02@gmail.com 
 
